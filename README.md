@@ -1,6 +1,6 @@
 # login_app
 
-AFRIZA MEIDIO ANDHANA (NIM1 124210043) 
+AFRIZA MEIDIO ANDHANA (NIM 124210043) 
 
 Pada tugas ini, saya membuat 3 halaman ui, yaitu : 
 1) started.dart - Halaman pertama saat menjalankan project ini
