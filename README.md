@@ -2,6 +2,8 @@
 
 AFRIZA MEIDIO ANDHANA (NIM 124210043) 
 
+## MOHON DIBUKA DENGAN EMULATOR MOBILE, KALAU DI WEB ERROR / FORMAT GA SESUAI :D
+
 Pada tugas ini, saya membuat 3 halaman ui, yaitu : 
 1) started.dart - Halaman pertama saat menjalankan project ini
 2) login.dart - Halaman selanjutnya ketika anda klik tombol 'Get Started' di halaman pertama
